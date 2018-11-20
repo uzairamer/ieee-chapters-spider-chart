@@ -1,4 +1,4 @@
-# IEEE Chapters Spider Chart
+# IEEE Chapters (Spider Chart)
 ![alt text](https://imgur.com/dtL9Rc0.jpg)
 Please download the pdf version from the repo.
 
